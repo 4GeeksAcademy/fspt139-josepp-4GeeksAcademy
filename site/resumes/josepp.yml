@@ -1,0 +1,73 @@
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+
+   
+    first_name: Jose
+    last_name: Pepe P.
+    
+   
+    motto: Mejorar el alcance de mi carrera como programador
+    avatar: https://randomuser.me/api/portraits/man/24.jpg
+    summary: |
+      Mi objetivo en 4Geeks es renovar mis conocimientos de programación y ponerme al día con flujos de trabajo actuales.
+
+    email: email@gmail.com
+    phone: 506-85-86-40-38
+    linkedin: https://www.linkedin.com/in/joseppdev/
+    Twitter: NA
+    stack-overflow: NA
+    github: josepp
+
+    languages:
+      - idiom: Inglés
+        level: c1
+
+      - idiom: Español
+        level: Nativo
+
+      - idiom: Valenciano
+        level: Nativo
+
+    interests:
+      - item: Tecnología
+
+      - item: Motor
+
+      - item: Música
+
+      - item: Padel
+
+      - item: Animales
+
+education:
+    - degree: Full stack Development
+      university: 4Geeks Academy
+      time: 2026
+
+skills:
+    toolset:
+      - name: HTML
+        level: 200%
+
+      - name: CSS
+        level: 99%
+
+      - name: Bootstrap
+        level: 101%
+
+      - name: Git
+        level: 90%
+
+      - name: Github
+        level: 10%
+
+      - name: Bitbucket
+        level: 90%        
+
+      - name: JavaScript
+        level: 75%
+
+      - name: React.js
+        level: 1%
